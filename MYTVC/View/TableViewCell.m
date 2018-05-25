@@ -17,7 +17,7 @@
 @end
 
 @implementation TableViewCell
-
+ 
 - (void)awakeFromNib {
     [super awakeFromNib];
 }
